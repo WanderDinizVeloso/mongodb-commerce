@@ -1,6 +1,6 @@
 # Projeto MongoDB Commerce
 
-Projeto desenvolvido durante o Curso de Desenvolvimento WEB, Turma 12, da [trybe](https://www.betrybe.com/), onde desenvolvi minhas habilidades em JavaScript e banco de dados NoSQL (MongoDB), na criação de queries.
+Projeto desenvolvido durante o Curso de Desenvolvimento WEB, Turma 12, da [trybe](https://www.betrybe.com/), onde desenvolvi minhas habilidades em JavaScript e banco de dados NoSQL (MongoDB), na criação de queries, agora aplicando novas tecnicas aprendidas.
 
 ---
 
